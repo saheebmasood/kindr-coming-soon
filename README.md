@@ -18,4 +18,4 @@ Kindr is a safe, joyful social network built for kids. No ads. No strangers. Jus
 2. Open `index.html` in any modern web browser.
 
 ---
-Made with ❤️ by [Your Name/M.S. Tech]
+Made with ❤️ by [M.S.Tech]
